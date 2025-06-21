@@ -1,0 +1,12 @@
+20:06:2025	23:22:44	2ad2dda8-6d7a-4652-b042-ccf5a41b60aa	Error: ENOENT: no such file or directory, stat 'C:\Users\tajmo\OneDrive\Desktop\Express js\routes\views\index.html'
+20:06:2025	23:23:05	06d9012c-5fe1-4dbb-9e64-b11bd4982818	Error: ENOENT: no such file or directory, stat 'C:\Users\tajmo\OneDrive\Desktop\Express js\routes\views\index.html'
+21:06:2025	00:29:11	344103c7-4af0-46e1-b17e-1ee4b89d01ca	TypeError: Cannot read properties of undefined (reading 'firstname')
+21:06:2025	00:29:20	dd052dbe-cd0c-4c6f-b66b-234caf96e6b5	TypeError: Cannot read properties of undefined (reading 'firstname')
+21:06:2025	00:36:15	8c606dc9-2f74-4c90-a94f-a478c5bad3b4	TypeError: Cannot read properties of undefined (reading 'firstname')
+21:06:2025	00:56:03	b14abafa-d3d5-4633-a865-7a90af50a4af	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+21:06:2025	01:08:21	96a1b948-6bcb-4a69-8b76-809dade1f61a	SyntaxError: Bad control character in string literal in JSON at position 51
+21:06:2025	01:08:36	700f2905-020b-4dc0-adea-393819a95b30	SyntaxError: Expected ',' or '}' after property value in JSON at position 58
+21:06:2025	12:42:44	08435d8f-fea1-423f-9a2c-59b1bcbca228	ReferenceError: refreshToken is not defined
+21:06:2025	12:43:08	66414750-428b-4fcc-8483-62527cc921b9	ReferenceError: refreshToken is not defined
+21:06:2025	12:50:06	3fbcd596-d3f1-4e26-9c4b-baf1db7e5d8f	ReferenceError: refreshToken is not defined
+21:06:2025	12:50:17	cb1d8d64-ffb3-4b71-949b-753e920850b6	ReferenceError: refreshToken is not defined

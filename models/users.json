@@ -1,0 +1,3 @@
+[{"_id":1,"firstname":"Dave","lastname":"Gray"},{"_id":2,"firstname":"John","lastname":"Smith"},{"username":"tareqadmin","password":"$2b$10$2/OCmDWq3Kfu3hCMB4qQs.ZILGQ.AuVy6St1pZlJLeSBbvt.CJOWy","roles":{"Admin":5150,"Editor":1984,"User":2001}},{"username":"tareqeditor","password":"$2b$10$roPAAYJOJtSviKhPQiI1qek48wXILGvuNHEu4FwcgS4mlsWULdpha","roles":{"Editor":1984,"User":2001}},{"username":"tarequser","password":"$2b$10$PSq6HEQxm3UOs.vRiBoDSulY.1OYJfu.3APX0x.t8fNRyDENmw19a","roles":{
+  "User":2001
+}}]
